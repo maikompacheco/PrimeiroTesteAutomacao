@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e07b1bbb-61c1-4ddd-82ee-befae31f1f7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/modulos/produto/ProdutoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/modulos/produto/ProdutoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,17 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.android.tools.idea.devicemanager.tab": "Physical",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Datamob/IdeaProjects/PrimeiroProjetoAutMobile",
-    "onboarding.tips.debug.path": "C:/Users/Datamob/IdeaProjects/Lojinha2/src/main/java/br/com/juliodelima/lojinhaMobileAutomacao/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.android.tools.idea.devicemanager.tab&quot;: &quot;Physical&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Datamob/IdeaProjects/PrimeiroProjetoAutMobile&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Datamob/IdeaProjects/Lojinha2/src/main/java/br/com/juliodelima/lojinhaMobileAutomacao/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Datamob\IdeaProjects\Lojinha2\src\main\resources\app" />
@@ -133,19 +131,6 @@
       <option name="MAIN_CLASS_NAME" value="modulos.produto.ProdutoTest" />
       <option name="METHOD_NAME" value="testeDeLoginComSucesso" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="PrimeiroProjetoAutMobile" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="PrimeiroProjetoAutMobile" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

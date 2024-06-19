@@ -120,6 +120,8 @@ public class ProdutoTest {
         driver.findElement(AppiumBy.id("com.lojinha:id/productColors")).findElement(AppiumBy.id("com.lojinha:id/editText")).sendKeys("Preto");
 
         driver.findElement(AppiumBy.id("com.lojinha:id/saveButton")).click();
+        String mensagemApresentada = driver.findElement(AppiumBy.xpath("//android.widget.Toast")).getText();
+        Assertions.assertEquals("Produto adicionado com sucesso",mensagemApresentada);
 
     }
 

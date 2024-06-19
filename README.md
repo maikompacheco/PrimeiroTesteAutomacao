@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teste Automação Lojinha
 Este teste repositório contem alguns testes de automação Mobile, utilizando um software  denominado como Lojinha. Os tópicos abaixo descrevem algumas decisões realizadas  para a estrutura do projeto
 
@@ -21,3 +22,6 @@ Este teste repositório contem alguns testes de automação Mobile, utilizando u
 -
 ## Notas Gerais
 - Sempre utilizando a anotação Before Each para capturar o token, que será utilizado nos métodos testes 
+=======
+
+>>>>>>> 143722b5b74dcc0a65589ffc3f1ae58a16a52e09

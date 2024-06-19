@@ -21,7 +21,6 @@ Este teste repositório contem alguns testes de automação Mobile, utilizando u
 - Teste de inserir produto com os dados dentro da regra de negocio
 -
 ## Notas Gerais
-- Sempre utilizando a anotação Before Each para capturar o token, que será utilizado nos métodos testes 
-=======
+- Sempre utilizando a anotação Before Each para capturar o token, que será utilizado nos métodos testes.
 
 >>>>>>> 143722b5b74dcc0a65589ffc3f1ae58a16a52e09

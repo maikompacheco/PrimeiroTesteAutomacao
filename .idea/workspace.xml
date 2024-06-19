@@ -5,19 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e07b1bbb-61c1-4ddd-82ee-befae31f1f7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/modulos/produto/ProdutoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/modulos/produto/ProdutoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2i0hoPVMa57Qsfkl7ehQ9TPyGx4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,10 +45,120 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.android.tools.idea.devicemanager.tab": "Physical",
     "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Datamob/IdeaProjects/Lojinha2/src/main/java/br/com/juliodelima/lojinhaMobileAutomacao/Main.java"
+    "last_opened_file_path": "C:/Users/Datamob/IdeaProjects/PrimeiroProjetoAutMobile",
+    "onboarding.tips.debug.path": "C:/Users/Datamob/IdeaProjects/Lojinha2/src/main/java/br/com/juliodelima/lojinhaMobileAutomacao/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Datamob\IdeaProjects\Lojinha2\src\main\resources\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProdutoTest.TesteIncluirProduto">
+    <configuration name="ProdutoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PrimeiroProjetoAutMobile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produto.ProdutoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.TesteBotãoFlutuante" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PrimeiroProjetoAutMobile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="TesteBotãoFlutuante" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.TesteIncluirProduto" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="PrimeiroProjetoAutMobile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="TesteIncluirProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.TesteInserindoValorErrado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PrimeiroProjetoAutMobile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="TesteInserindoValorErrado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.testeDeLoginComSucesso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PrimeiroProjetoAutMobile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modulos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modulos.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="testeDeLoginComSucesso" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PrimeiroProjetoAutMobile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PrimeiroProjetoAutMobile" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProdutoTest" />
+        <item itemvalue="JUnit.ProdutoTest.TesteInserindoValorErrado" />
+        <item itemvalue="JUnit.ProdutoTest.TesteBotãoFlutuante" />
+        <item itemvalue="JUnit.ProdutoTest.testeDeLoginComSucesso" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,6 +170,43 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -53,5 +217,14 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lojinha2$ProdutoTest_testValidacaoDoValorDeProdutoNaoPermitido.ic" NAME="ProdutoTest.testValidacaoDoValorDeProdutoNaoPermitido Coverage Results" MODIFIED="1718655884705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>modulos.produto.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.juliodelima.lojinhaMobileAutomacao</groupId>
-    <artifactId>Lojinha2</artifactId>
+    <artifactId>PrimeiroProjetoAutMobile</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
